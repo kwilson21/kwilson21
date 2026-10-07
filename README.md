@@ -7,7 +7,7 @@ Software engineer building with AI. Seven years of Python, PostgreSQL and AWS at
 **Building now**
 
 - [Tally](https://thesuperhuman.us/building/tally/): a budgeting app, and the first product of my own I'm working to ship. It's for more than my family; they're just the first to use it. [Code](https://github.com/kwilson21/tally).
-- [kaillera-next](https://github.com/kwilson21/kaillera-next): browser-based N64 netplay over WebRTC.
+- [kaillera-next](https://thesuperhuman.us/building/kaillera-next/): browser-based N64 netplay over WebRTC. [Code](https://github.com/kwilson21/kaillera-next).
 
 <p>
   <a href="https://thesuperhuman.us/building/tally/"><img src="images/tally.webp" alt="Tally's Transactions screen, on demo data" width="48%"></a>
